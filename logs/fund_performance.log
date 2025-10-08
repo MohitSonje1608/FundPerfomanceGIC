@@ -1,0 +1,6 @@
+2025-10-07 19:05:28,205 [INFO] Best Performing Funds - Starting Best Performing Funds with arguments: ['/Users/mohitsonje/PycharmProjects/GICTest/jobs/fund_performance.py', 'output']
+2025-10-07 19:05:28,220 [INFO] root - Best performing funds written to {output_file}
+2025-10-07 19:05:28,220 [INFO] Best Performing Funds - Fund performance complete/Users/mohitsonje/PycharmProjects/GICTest/output/best_performing_funds.csv
+2025-10-07 20:42:59,154 [INFO] Best Performing Funds - Starting Best Performing Funds with arguments: ['/Users/mohitsonje/PycharmProjects/GICTest/jobs/fund_performance.py', 'output']
+2025-10-07 20:42:59,169 [INFO] root - Best performing funds written to {output_file}
+2025-10-07 20:42:59,169 [INFO] Best Performing Funds - Fund performance complete/Users/mohitsonje/PycharmProjects/GICTest/output/best_performing_funds.csv

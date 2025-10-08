@@ -1,0 +1,272 @@
+2025-10-07 20:06:45,084 [INFO] Data Loader Pipeline: Ingest - Starting Data Loader Pipeline: Ingest with arguments: ['/Users/mohitsonje/PycharmProjects/GICTest/jobs/load_data.py', '/Users/mohitsonje/PycharmProjects/GICTest/external-funds']
+2025-10-07 20:06:45,084 [INFO] Data Loader Pipeline: Ingest - Application Initialized: Data Loader Pipeline: Ingest
+2025-10-07 20:06:45,150 [INFO] Data Loader Pipeline: Ingest - Tables created successfully
+2025-10-07 20:06:45,153 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.30-06-2023 - details.csv into financial_data.
+2025-10-07 20:06:45,155 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2022-10-31.csv into financial_data.
+2025-10-07 20:06:45,157 [INFO] src.data_loader - Inserted 88 rows from Belaware.28_02_2023.csv into financial_data.
+2025-10-07 20:06:45,158 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.31-10-2022 - details.csv into financial_data.
+2025-10-07 20:06:45,159 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20230831.csv into financial_data.
+2025-10-07 20:06:45,161 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.31-01-2023 - details.csv into financial_data.
+2025-10-07 20:06:45,162 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.07-31-2023.csv into financial_data.
+2025-10-07 20:06:45,164 [INFO] src.data_loader - Inserted 71 rows from Virtous.05-31-2023 - securities.csv into financial_data.
+2025-10-07 20:06:45,165 [INFO] src.data_loader - Inserted 87 rows from Leeder.03_31_2023.csv into financial_data.
+2025-10-07 20:06:45,166 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.30_06_2023.csv into financial_data.
+2025-10-07 20:06:45,168 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2023-04-30.csv into financial_data.
+2025-10-07 20:06:45,169 [INFO] src.data_loader - Inserted 71 rows from Virtous.01-31-2023 - securities.csv into financial_data.
+2025-10-07 20:06:45,170 [INFO] src.data_loader - Inserted 87 rows from Magnum.31-10-2022.csv into financial_data.
+2025-10-07 20:06:45,172 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.12-31-2022.csv into financial_data.
+2025-10-07 20:06:45,173 [INFO] src.data_loader - Inserted 71 rows from Virtous.12-31-2022 - securities.csv into financial_data.
+2025-10-07 20:06:45,174 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.31_05_2023.csv into financial_data.
+2025-10-07 20:06:45,176 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2023-08-31.csv into financial_data.
+2025-10-07 20:06:45,177 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2023-06-30.csv into financial_data.
+2025-10-07 20:06:45,178 [INFO] src.data_loader - Inserted 87 rows from Leeder.06_30_2023.csv into financial_data.
+2025-10-07 20:06:45,180 [INFO] src.data_loader - Inserted 88 rows from Belaware.31_08_2022.csv into financial_data.
+2025-10-07 20:06:45,181 [INFO] src.data_loader - Inserted 79 rows from Applebead.28-02-2023 breakdown.csv into financial_data.
+2025-10-07 20:06:45,182 [INFO] src.data_loader - Inserted 88 rows from Belaware.31_08_2023.csv into financial_data.
+2025-10-07 20:06:45,184 [INFO] src.data_loader - Inserted 71 rows from Virtous.08-31-2022 - securities.csv into financial_data.
+2025-10-07 20:06:45,185 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20230228.csv into financial_data.
+2025-10-07 20:06:45,186 [INFO] src.data_loader - Inserted 79 rows from Applebead.31-12-2022 breakdown.csv into financial_data.
+2025-10-07 20:06:45,188 [INFO] src.data_loader - Inserted 87 rows from Magnum.31-07-2023.csv into financial_data.
+2025-10-07 20:06:45,189 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2022-12-31.csv into financial_data.
+2025-10-07 20:06:45,190 [INFO] src.data_loader - Inserted 71 rows from Virtous.06-30-2023 - securities.csv into financial_data.
+2025-10-07 20:06:45,192 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.31_12_2022.csv into financial_data.
+2025-10-07 20:06:45,193 [INFO] src.data_loader - Inserted 79 rows from Applebead.30-04-2023 breakdown.csv into financial_data.
+2025-10-07 20:06:45,194 [INFO] src.data_loader - Inserted 87 rows from Magnum.30-04-2023.csv into financial_data.
+2025-10-07 20:06:45,196 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20220831.csv into financial_data.
+2025-10-07 20:06:45,197 [INFO] src.data_loader - Inserted 71 rows from Virtous.11-30-2022 - securities.csv into financial_data.
+2025-10-07 20:06:45,198 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.30-09-2022 - details.csv into financial_data.
+2025-10-07 20:06:45,200 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.30_11_2022.csv into financial_data.
+2025-10-07 20:06:45,201 [INFO] src.data_loader - Inserted 88 rows from Belaware.31_03_2023.csv into financial_data.
+2025-10-07 20:06:45,202 [INFO] src.data_loader - Inserted 79 rows from Applebead.31-03-2023 breakdown.csv into financial_data.
+2025-10-07 20:06:45,204 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20221130.csv into financial_data.
+2025-10-07 20:06:45,205 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.31-08-2022 - details.csv into financial_data.
+2025-10-07 20:06:45,206 [INFO] src.data_loader - Inserted 87 rows from Magnum.30-09-2022.csv into financial_data.
+2025-10-07 20:06:45,208 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.28_02_2023.csv into financial_data.
+2025-10-07 20:06:45,210 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.01-31-2023.csv into financial_data.
+2025-10-07 20:06:45,211 [INFO] src.data_loader - Inserted 79 rows from Applebead.31-08-2023 breakdown.csv into financial_data.
+2025-10-07 20:06:45,213 [INFO] src.data_loader - Inserted 79 rows from Applebead.31-05-2023 breakdown.csv into financial_data.
+2025-10-07 20:06:45,214 [INFO] src.data_loader - Inserted 87 rows from Leeder.10_31_2022.csv into financial_data.
+2025-10-07 20:06:45,215 [INFO] src.data_loader - Inserted 87 rows from Leeder.02_28_2023.csv into financial_data.
+2025-10-07 20:06:45,217 [INFO] src.data_loader - Inserted 87 rows from Magnum.31-01-2023.csv into financial_data.
+2025-10-07 20:06:45,218 [INFO] src.data_loader - Inserted 71 rows from Virtous.02-28-2023 - securities.csv into financial_data.
+2025-10-07 20:06:45,220 [INFO] src.data_loader - Inserted 88 rows from Belaware.30_06_2023.csv into financial_data.
+2025-10-07 20:06:45,221 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.08-31-2023.csv into financial_data.
+2025-10-07 20:06:45,223 [INFO] src.data_loader - Inserted 87 rows from Leeder.05_31_2023.csv into financial_data.
+2025-10-07 20:06:45,224 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.08-31-2022.csv into financial_data.
+2025-10-07 20:06:45,225 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2022-08-31.csv into financial_data.
+2025-10-07 20:06:45,227 [INFO] src.data_loader - Inserted 88 rows from Belaware.31_05_2023.csv into financial_data.
+2025-10-07 20:06:45,228 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.11-30-2022.csv into financial_data.
+2025-10-07 20:06:45,229 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20220930.csv into financial_data.
+2025-10-07 20:06:45,231 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.31_08_2022.csv into financial_data.
+2025-10-07 20:06:45,232 [INFO] src.data_loader - Inserted 71 rows from Virtous.08-31-2023 - securities.csv into financial_data.
+2025-10-07 20:06:45,233 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20221031.csv into financial_data.
+2025-10-07 20:06:45,235 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.31_08_2023.csv into financial_data.
+2025-10-07 20:06:45,236 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.04-30-2023.csv into financial_data.
+2025-10-07 20:06:45,237 [INFO] src.data_loader - Inserted 87 rows from Leeder.09_30_2022.csv into financial_data.
+2025-10-07 20:06:45,239 [INFO] src.data_loader - Inserted 88 rows from Belaware.31_12_2022.csv into financial_data.
+2025-10-07 20:06:45,240 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20221231.csv into financial_data.
+2025-10-07 20:06:45,241 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.30-11-2022 - details.csv into financial_data.
+2025-10-07 20:06:45,243 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.31_03_2023.csv into financial_data.
+2025-10-07 20:06:45,244 [INFO] src.data_loader - Inserted 88 rows from Belaware.30_11_2022.csv into financial_data.
+2025-10-07 20:06:45,245 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.31-07-2023 - details.csv into financial_data.
+2025-10-07 20:06:45,247 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2023-05-31.csv into financial_data.
+2025-10-07 20:06:45,248 [INFO] src.data_loader - Inserted 87 rows from Magnum.31-05-2023.csv into financial_data.
+2025-10-07 20:06:45,249 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.03-31-2023.csv into financial_data.
+2025-10-07 20:06:45,251 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20230331.csv into financial_data.
+2025-10-07 20:06:45,252 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.31_10_2022.csv into financial_data.
+2025-10-07 20:06:45,253 [INFO] src.data_loader - Inserted 87 rows from Magnum.30-06-2023.csv into financial_data.
+2025-10-07 20:06:45,255 [INFO] src.data_loader - Inserted 87 rows from Leeder.12_31_2022.csv into financial_data.
+2025-10-07 20:06:45,256 [INFO] src.data_loader - Inserted 88 rows from Belaware.31_01_2023.csv into financial_data.
+2025-10-07 20:06:45,258 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2022-11-30.csv into financial_data.
+2025-10-07 20:06:45,259 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20230131.csv into financial_data.
+2025-10-07 20:06:45,260 [INFO] src.data_loader - Inserted 79 rows from Applebead.31-07-2023 breakdown.csv into financial_data.
+2025-10-07 20:06:45,262 [INFO] src.data_loader - Inserted 79 rows from Applebead.30-11-2022 breakdown.csv into financial_data.
+2025-10-07 20:06:45,263 [INFO] src.data_loader - Inserted 88 rows from Belaware.30_09_2022.csv into financial_data.
+2025-10-07 20:06:45,264 [INFO] src.data_loader - Inserted 87 rows from Leeder.07_31_2023.csv into financial_data.
+2025-10-07 20:06:45,265 [INFO] src.data_loader - Inserted 87 rows from Magnum.30-11-2022.csv into financial_data.
+2025-10-07 20:06:45,267 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20230531.csv into financial_data.
+2025-10-07 20:06:45,268 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.30_04_2023.csv into financial_data.
+2025-10-07 20:06:45,269 [INFO] src.data_loader - Inserted 79 rows from Applebead.31-08-2022 breakdown.csv into financial_data.
+2025-10-07 20:06:45,271 [INFO] src.data_loader - Inserted 87 rows from Magnum.31-12-2022.csv into financial_data.
+2025-10-07 20:06:45,273 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.31-05-2023 - details.csv into financial_data.
+2025-10-07 20:06:45,274 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.31-08-2023 - details.csv into financial_data.
+2025-10-07 20:06:45,276 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.31_07_2023.csv into financial_data.
+2025-10-07 20:06:45,277 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.06-30-2023.csv into financial_data.
+2025-10-07 20:06:45,278 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2023-07-31.csv into financial_data.
+2025-10-07 20:06:45,280 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2023-02-28.csv into financial_data.
+2025-10-07 20:06:45,281 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20230731.csv into financial_data.
+2025-10-07 20:06:45,283 [INFO] src.data_loader - Inserted 71 rows from Virtous.10-31-2022 - securities.csv into financial_data.
+2025-10-07 20:06:45,284 [INFO] src.data_loader - Inserted 71 rows from Virtous.03-31-2023 - securities.csv into financial_data.
+2025-10-07 20:06:45,285 [INFO] src.data_loader - Inserted 88 rows from Belaware.31_10_2022.csv into financial_data.
+2025-10-07 20:06:45,287 [INFO] src.data_loader - Inserted 87 rows from Leeder.08_31_2023.csv into financial_data.
+2025-10-07 20:06:45,288 [INFO] src.data_loader - Inserted 87 rows from Leeder.08_31_2022.csv into financial_data.
+2025-10-07 20:06:45,289 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.05-31-2023.csv into financial_data.
+2025-10-07 20:06:45,291 [INFO] src.data_loader - Inserted 71 rows from Virtous.07-31-2023 - securities.csv into financial_data.
+2025-10-07 20:06:45,292 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.31_01_2023.csv into financial_data.
+2025-10-07 20:06:45,294 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.28-02-2023 - details.csv into financial_data.
+2025-10-07 20:06:45,295 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2022-09-30.csv into financial_data.
+2025-10-07 20:06:45,297 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.30-04-2023 - details.csv into financial_data.
+2025-10-07 20:06:45,298 [INFO] src.data_loader - Inserted 71 rows from Virtous.09-30-2022 - securities.csv into financial_data.
+2025-10-07 20:06:45,300 [INFO] src.data_loader - Inserted 87 rows from Leeder.01_31_2023.csv into financial_data.
+2025-10-07 20:06:45,302 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.31-12-2022 - details.csv into financial_data.
+2025-10-07 20:06:45,304 [INFO] src.data_loader - Inserted 87 rows from Magnum.28-02-2023.csv into financial_data.
+2025-10-07 20:06:45,305 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2023-03-31.csv into financial_data.
+2025-10-07 20:06:45,307 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.31-03-2023 - details.csv into financial_data.
+2025-10-07 20:06:45,309 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.02-28-2023.csv into financial_data.
+2025-10-07 20:06:45,310 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.10-31-2022.csv into financial_data.
+2025-10-07 20:06:45,312 [INFO] src.data_loader - Inserted 79 rows from Applebead.30-09-2022 breakdown.csv into financial_data.
+2025-10-07 20:06:45,314 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.30_09_2022.csv into financial_data.
+2025-10-07 20:06:45,316 [INFO] src.data_loader - Inserted 79 rows from Applebead.31-10-2022 breakdown.csv into financial_data.
+2025-10-07 20:06:45,317 [INFO] src.data_loader - Inserted 87 rows from Magnum.31-03-2023.csv into financial_data.
+2025-10-07 20:06:45,318 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.09-30-2022.csv into financial_data.
+2025-10-07 20:06:45,320 [INFO] src.data_loader - Inserted 87 rows from Leeder.04_30_2023.csv into financial_data.
+2025-10-07 20:06:45,322 [INFO] src.data_loader - Inserted 79 rows from Applebead.30-06-2023 breakdown.csv into financial_data.
+2025-10-07 20:06:45,323 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20230630.csv into financial_data.
+2025-10-07 20:06:45,325 [INFO] src.data_loader - Inserted 88 rows from Belaware.30_04_2023.csv into financial_data.
+2025-10-07 20:06:45,326 [INFO] src.data_loader - Inserted 71 rows from Virtous.04-30-2023 - securities.csv into financial_data.
+2025-10-07 20:06:45,328 [INFO] src.data_loader - Inserted 79 rows from Applebead.31-01-2023 breakdown.csv into financial_data.
+2025-10-07 20:06:45,329 [INFO] src.data_loader - Inserted 88 rows from Belaware.31_07_2023.csv into financial_data.
+2025-10-07 20:06:45,331 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2023-01-31.csv into financial_data.
+2025-10-07 20:06:45,333 [INFO] src.data_loader - Inserted 87 rows from Leeder.11_30_2022.csv into financial_data.
+2025-10-07 20:06:45,334 [INFO] src.data_loader - Inserted 87 rows from Magnum.31-08-2023.csv into financial_data.
+2025-10-07 20:06:45,336 [INFO] src.data_loader - Inserted 87 rows from Magnum.31-08-2022.csv into financial_data.
+2025-10-07 20:06:45,338 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20230430.csv into financial_data.
+2025-10-07 20:06:45,338 [INFO] Data Loader Pipeline: Ingest - CSV Data loaded successfully into the table
+2025-10-07 20:06:45,338 [INFO] Data Loader Pipeline: Ingest - Application finished: Data Loader Pipeline: Ingest
+2025-10-07 20:06:45,338 [INFO] Data Loader Pipeline: Ingest - Database connection closed
+2025-10-07 20:09:55,979 [INFO] Data Loader Pipeline: Ingest - Starting Data Loader Pipeline: Ingest with arguments: ['/Users/mohitsonje/PycharmProjects/GICTest/jobs/load_data.py', '/Users/mohitsonje/PycharmProjects/GICTest/external-funds']
+2025-10-07 20:09:55,979 [INFO] Data Loader Pipeline: Ingest - Application Initialized: Data Loader Pipeline: Ingest
+2025-10-07 20:09:56,045 [INFO] Data Loader Pipeline: Ingest - Tables created successfully
+2025-10-07 20:09:56,048 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.30-06-2023 - details.csv into financial_data.
+2025-10-07 20:09:56,050 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2022-10-31.csv into financial_data.
+2025-10-07 20:09:56,051 [INFO] src.data_loader - Inserted 88 rows from Belaware.28_02_2023.csv into financial_data.
+2025-10-07 20:09:56,053 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.31-10-2022 - details.csv into financial_data.
+2025-10-07 20:09:56,054 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20230831.csv into financial_data.
+2025-10-07 20:09:56,056 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.31-01-2023 - details.csv into financial_data.
+2025-10-07 20:09:56,057 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.07-31-2023.csv into financial_data.
+2025-10-07 20:09:56,058 [INFO] src.data_loader - Inserted 71 rows from Virtous.05-31-2023 - securities.csv into financial_data.
+2025-10-07 20:09:56,060 [INFO] src.data_loader - Inserted 87 rows from Leeder.03_31_2023.csv into financial_data.
+2025-10-07 20:09:56,061 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.30_06_2023.csv into financial_data.
+2025-10-07 20:09:56,062 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2023-04-30.csv into financial_data.
+2025-10-07 20:09:56,064 [INFO] src.data_loader - Inserted 71 rows from Virtous.01-31-2023 - securities.csv into financial_data.
+2025-10-07 20:09:56,065 [INFO] src.data_loader - Inserted 87 rows from Magnum.31-10-2022.csv into financial_data.
+2025-10-07 20:09:56,067 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.12-31-2022.csv into financial_data.
+2025-10-07 20:09:56,068 [INFO] src.data_loader - Inserted 71 rows from Virtous.12-31-2022 - securities.csv into financial_data.
+2025-10-07 20:09:56,069 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.31_05_2023.csv into financial_data.
+2025-10-07 20:09:56,071 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2023-08-31.csv into financial_data.
+2025-10-07 20:09:56,072 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2023-06-30.csv into financial_data.
+2025-10-07 20:09:56,074 [INFO] src.data_loader - Inserted 87 rows from Leeder.06_30_2023.csv into financial_data.
+2025-10-07 20:09:56,076 [INFO] src.data_loader - Inserted 88 rows from Belaware.31_08_2022.csv into financial_data.
+2025-10-07 20:09:56,077 [INFO] src.data_loader - Inserted 79 rows from Applebead.28-02-2023 breakdown.csv into financial_data.
+2025-10-07 20:09:56,078 [INFO] src.data_loader - Inserted 88 rows from Belaware.31_08_2023.csv into financial_data.
+2025-10-07 20:09:56,080 [INFO] src.data_loader - Inserted 71 rows from Virtous.08-31-2022 - securities.csv into financial_data.
+2025-10-07 20:09:56,081 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20230228.csv into financial_data.
+2025-10-07 20:09:56,082 [INFO] src.data_loader - Inserted 79 rows from Applebead.31-12-2022 breakdown.csv into financial_data.
+2025-10-07 20:09:56,084 [INFO] src.data_loader - Inserted 87 rows from Magnum.31-07-2023.csv into financial_data.
+2025-10-07 20:09:56,085 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2022-12-31.csv into financial_data.
+2025-10-07 20:09:56,087 [INFO] src.data_loader - Inserted 71 rows from Virtous.06-30-2023 - securities.csv into financial_data.
+2025-10-07 20:09:56,088 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.31_12_2022.csv into financial_data.
+2025-10-07 20:09:56,089 [INFO] src.data_loader - Inserted 79 rows from Applebead.30-04-2023 breakdown.csv into financial_data.
+2025-10-07 20:09:56,091 [INFO] src.data_loader - Inserted 87 rows from Magnum.30-04-2023.csv into financial_data.
+2025-10-07 20:09:56,092 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20220831.csv into financial_data.
+2025-10-07 20:09:56,093 [INFO] src.data_loader - Inserted 71 rows from Virtous.11-30-2022 - securities.csv into financial_data.
+2025-10-07 20:09:56,094 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.30-09-2022 - details.csv into financial_data.
+2025-10-07 20:09:56,096 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.30_11_2022.csv into financial_data.
+2025-10-07 20:09:56,097 [INFO] src.data_loader - Inserted 88 rows from Belaware.31_03_2023.csv into financial_data.
+2025-10-07 20:09:56,098 [INFO] src.data_loader - Inserted 79 rows from Applebead.31-03-2023 breakdown.csv into financial_data.
+2025-10-07 20:09:56,100 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20221130.csv into financial_data.
+2025-10-07 20:09:56,101 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.31-08-2022 - details.csv into financial_data.
+2025-10-07 20:09:56,102 [INFO] src.data_loader - Inserted 87 rows from Magnum.30-09-2022.csv into financial_data.
+2025-10-07 20:09:56,103 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.28_02_2023.csv into financial_data.
+2025-10-07 20:09:56,105 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.01-31-2023.csv into financial_data.
+2025-10-07 20:09:56,106 [INFO] src.data_loader - Inserted 79 rows from Applebead.31-08-2023 breakdown.csv into financial_data.
+2025-10-07 20:09:56,107 [INFO] src.data_loader - Inserted 79 rows from Applebead.31-05-2023 breakdown.csv into financial_data.
+2025-10-07 20:09:56,109 [INFO] src.data_loader - Inserted 87 rows from Leeder.10_31_2022.csv into financial_data.
+2025-10-07 20:09:56,110 [INFO] src.data_loader - Inserted 87 rows from Leeder.02_28_2023.csv into financial_data.
+2025-10-07 20:09:56,111 [INFO] src.data_loader - Inserted 87 rows from Magnum.31-01-2023.csv into financial_data.
+2025-10-07 20:09:56,113 [INFO] src.data_loader - Inserted 71 rows from Virtous.02-28-2023 - securities.csv into financial_data.
+2025-10-07 20:09:56,114 [INFO] src.data_loader - Inserted 88 rows from Belaware.30_06_2023.csv into financial_data.
+2025-10-07 20:09:56,115 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.08-31-2023.csv into financial_data.
+2025-10-07 20:09:56,117 [INFO] src.data_loader - Inserted 87 rows from Leeder.05_31_2023.csv into financial_data.
+2025-10-07 20:09:56,118 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.08-31-2022.csv into financial_data.
+2025-10-07 20:09:56,119 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2022-08-31.csv into financial_data.
+2025-10-07 20:09:56,120 [INFO] src.data_loader - Inserted 88 rows from Belaware.31_05_2023.csv into financial_data.
+2025-10-07 20:09:56,122 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.11-30-2022.csv into financial_data.
+2025-10-07 20:09:56,123 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20220930.csv into financial_data.
+2025-10-07 20:09:56,125 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.31_08_2022.csv into financial_data.
+2025-10-07 20:09:56,126 [INFO] src.data_loader - Inserted 71 rows from Virtous.08-31-2023 - securities.csv into financial_data.
+2025-10-07 20:09:56,128 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20221031.csv into financial_data.
+2025-10-07 20:09:56,129 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.31_08_2023.csv into financial_data.
+2025-10-07 20:09:56,131 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.04-30-2023.csv into financial_data.
+2025-10-07 20:09:56,132 [INFO] src.data_loader - Inserted 87 rows from Leeder.09_30_2022.csv into financial_data.
+2025-10-07 20:09:56,133 [INFO] src.data_loader - Inserted 88 rows from Belaware.31_12_2022.csv into financial_data.
+2025-10-07 20:09:56,134 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20221231.csv into financial_data.
+2025-10-07 20:09:56,136 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.30-11-2022 - details.csv into financial_data.
+2025-10-07 20:09:56,137 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.31_03_2023.csv into financial_data.
+2025-10-07 20:09:56,138 [INFO] src.data_loader - Inserted 88 rows from Belaware.30_11_2022.csv into financial_data.
+2025-10-07 20:09:56,140 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.31-07-2023 - details.csv into financial_data.
+2025-10-07 20:09:56,141 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2023-05-31.csv into financial_data.
+2025-10-07 20:09:56,142 [INFO] src.data_loader - Inserted 87 rows from Magnum.31-05-2023.csv into financial_data.
+2025-10-07 20:09:56,144 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.03-31-2023.csv into financial_data.
+2025-10-07 20:09:56,145 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20230331.csv into financial_data.
+2025-10-07 20:09:56,146 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.31_10_2022.csv into financial_data.
+2025-10-07 20:09:56,147 [INFO] src.data_loader - Inserted 87 rows from Magnum.30-06-2023.csv into financial_data.
+2025-10-07 20:09:56,149 [INFO] src.data_loader - Inserted 87 rows from Leeder.12_31_2022.csv into financial_data.
+2025-10-07 20:09:56,150 [INFO] src.data_loader - Inserted 88 rows from Belaware.31_01_2023.csv into financial_data.
+2025-10-07 20:09:56,151 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2022-11-30.csv into financial_data.
+2025-10-07 20:09:56,153 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20230131.csv into financial_data.
+2025-10-07 20:09:56,154 [INFO] src.data_loader - Inserted 79 rows from Applebead.31-07-2023 breakdown.csv into financial_data.
+2025-10-07 20:09:56,155 [INFO] src.data_loader - Inserted 79 rows from Applebead.30-11-2022 breakdown.csv into financial_data.
+2025-10-07 20:09:56,157 [INFO] src.data_loader - Inserted 88 rows from Belaware.30_09_2022.csv into financial_data.
+2025-10-07 20:09:56,158 [INFO] src.data_loader - Inserted 87 rows from Leeder.07_31_2023.csv into financial_data.
+2025-10-07 20:09:56,159 [INFO] src.data_loader - Inserted 87 rows from Magnum.30-11-2022.csv into financial_data.
+2025-10-07 20:09:56,161 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20230531.csv into financial_data.
+2025-10-07 20:09:56,162 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.30_04_2023.csv into financial_data.
+2025-10-07 20:09:56,163 [INFO] src.data_loader - Inserted 79 rows from Applebead.31-08-2022 breakdown.csv into financial_data.
+2025-10-07 20:09:56,164 [INFO] src.data_loader - Inserted 87 rows from Magnum.31-12-2022.csv into financial_data.
+2025-10-07 20:09:56,166 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.31-05-2023 - details.csv into financial_data.
+2025-10-07 20:09:56,167 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.31-08-2023 - details.csv into financial_data.
+2025-10-07 20:09:56,168 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.31_07_2023.csv into financial_data.
+2025-10-07 20:09:56,169 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.06-30-2023.csv into financial_data.
+2025-10-07 20:09:56,171 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2023-07-31.csv into financial_data.
+2025-10-07 20:09:56,172 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2023-02-28.csv into financial_data.
+2025-10-07 20:09:56,173 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20230731.csv into financial_data.
+2025-10-07 20:09:56,174 [INFO] src.data_loader - Inserted 71 rows from Virtous.10-31-2022 - securities.csv into financial_data.
+2025-10-07 20:09:56,176 [INFO] src.data_loader - Inserted 71 rows from Virtous.03-31-2023 - securities.csv into financial_data.
+2025-10-07 20:09:56,177 [INFO] src.data_loader - Inserted 88 rows from Belaware.31_10_2022.csv into financial_data.
+2025-10-07 20:09:56,178 [INFO] src.data_loader - Inserted 87 rows from Leeder.08_31_2023.csv into financial_data.
+2025-10-07 20:09:56,180 [INFO] src.data_loader - Inserted 87 rows from Leeder.08_31_2022.csv into financial_data.
+2025-10-07 20:09:56,181 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.05-31-2023.csv into financial_data.
+2025-10-07 20:09:56,183 [INFO] src.data_loader - Inserted 71 rows from Virtous.07-31-2023 - securities.csv into financial_data.
+2025-10-07 20:09:56,185 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.31_01_2023.csv into financial_data.
+2025-10-07 20:09:56,186 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.28-02-2023 - details.csv into financial_data.
+2025-10-07 20:09:56,187 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2022-09-30.csv into financial_data.
+2025-10-07 20:09:56,189 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.30-04-2023 - details.csv into financial_data.
+2025-10-07 20:09:56,190 [INFO] src.data_loader - Inserted 71 rows from Virtous.09-30-2022 - securities.csv into financial_data.
+2025-10-07 20:09:56,192 [INFO] src.data_loader - Inserted 87 rows from Leeder.01_31_2023.csv into financial_data.
+2025-10-07 20:09:56,193 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.31-12-2022 - details.csv into financial_data.
+2025-10-07 20:09:56,194 [INFO] src.data_loader - Inserted 87 rows from Magnum.28-02-2023.csv into financial_data.
+2025-10-07 20:09:56,196 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2023-03-31.csv into financial_data.
+2025-10-07 20:09:56,197 [INFO] src.data_loader - Inserted 77 rows from Fund Whitestone.31-03-2023 - details.csv into financial_data.
+2025-10-07 20:09:56,199 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.02-28-2023.csv into financial_data.
+2025-10-07 20:09:56,200 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.10-31-2022.csv into financial_data.
+2025-10-07 20:09:56,201 [INFO] src.data_loader - Inserted 79 rows from Applebead.30-09-2022 breakdown.csv into financial_data.
+2025-10-07 20:09:56,203 [INFO] src.data_loader - Inserted 76 rows from mend-report Wallington.30_09_2022.csv into financial_data.
+2025-10-07 20:09:56,204 [INFO] src.data_loader - Inserted 79 rows from Applebead.31-10-2022 breakdown.csv into financial_data.
+2025-10-07 20:09:56,206 [INFO] src.data_loader - Inserted 87 rows from Magnum.31-03-2023.csv into financial_data.
+2025-10-07 20:09:56,208 [INFO] src.data_loader - Inserted 71 rows from Report-of-Gohen.09-30-2022.csv into financial_data.
+2025-10-07 20:09:56,209 [INFO] src.data_loader - Inserted 87 rows from Leeder.04_30_2023.csv into financial_data.
+2025-10-07 20:09:56,211 [INFO] src.data_loader - Inserted 79 rows from Applebead.30-06-2023 breakdown.csv into financial_data.
+2025-10-07 20:09:56,212 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20230630.csv into financial_data.
+2025-10-07 20:09:56,214 [INFO] src.data_loader - Inserted 88 rows from Belaware.30_04_2023.csv into financial_data.
+2025-10-07 20:09:56,215 [INFO] src.data_loader - Inserted 71 rows from Virtous.04-30-2023 - securities.csv into financial_data.
+2025-10-07 20:09:56,217 [INFO] src.data_loader - Inserted 79 rows from Applebead.31-01-2023 breakdown.csv into financial_data.
+2025-10-07 20:09:56,218 [INFO] src.data_loader - Inserted 88 rows from Belaware.31_07_2023.csv into financial_data.
+2025-10-07 20:09:56,219 [INFO] src.data_loader - Inserted 82 rows from rpt-Catalysm.2023-01-31.csv into financial_data.
+2025-10-07 20:09:56,221 [INFO] src.data_loader - Inserted 87 rows from Leeder.11_30_2022.csv into financial_data.
+2025-10-07 20:09:56,223 [INFO] src.data_loader - Inserted 87 rows from Magnum.31-08-2023.csv into financial_data.
+2025-10-07 20:09:56,224 [INFO] src.data_loader - Inserted 87 rows from Magnum.31-08-2022.csv into financial_data.
+2025-10-07 20:09:56,226 [INFO] src.data_loader - Inserted 75 rows from TT_monthly_Trustmind.20230430.csv into financial_data.
+2025-10-07 20:09:56,226 [INFO] Data Loader Pipeline: Ingest - CSV Data loaded successfully into the table
+2025-10-07 20:09:56,226 [INFO] Data Loader Pipeline: Ingest - Application finished: Data Loader Pipeline: Ingest
+2025-10-07 20:09:56,226 [INFO] Data Loader Pipeline: Ingest - Database connection closed

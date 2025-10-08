@@ -1,0 +1,3 @@
+2025-10-07 20:32:41,457 [INFO] Reconciliation Analysis Pipeline - Starting Reconciliation Analysis Pipeline with arguments: ['/Users/mohitsonje/PycharmProjects/GICTest/jobs/reconcile_all.py', 'output']
+2025-10-07 20:32:41,457 [INFO] Reconciliation Analysis Pipeline - Application Initialized: Reconciliation Analysis Pipeline
+2025-10-07 20:32:42,257 [INFO] Reconciliation Analysis Pipeline - Reconciliation complete /Users/mohitsonje/PycharmProjects/GICTest/output/reconciliation.csv
