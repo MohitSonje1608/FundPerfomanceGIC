@@ -17,7 +17,7 @@ FundPerformanceGIC/
 ├── config/
 │   └── config.conf                  # Configuration for database, paths, SQL references
 ├── data/
-│   ├── input/                       # Raw CSV fund reports
+│   ├── external_funds/                       # Raw CSV fund reports
 │   └── output/                      # Processed outputs (e.g., best performing funds)
 ├── jobs/
 │   ├── load_all.py                  # Main data ingestion job
@@ -25,14 +25,15 @@ FundPerformanceGIC/
 │   ├── reconciliation.py            # Fund vs. reference data reconciliation
 ├── logs/                            # Centralized logs for all modules
 ├── sql/
-│   ├── create_financial_data.sql    # DDL scripts
+│   ├── financial_data.sql    # DDL scripts
 │   ├── performance_query.sql        # Query for top performing funds
 │   └── reconciliation_query.sql     # Query for price reconciliation
 ├── src/
 │   ├── main.py                      # Config reader & entry utilities
 │   ├── data_loader.py               # CSV ingestion logic
 │   ├── db_utils.py                  # SQLite helper functions
-│   └── fund_performance.py          # Business logic for performance calculations
+│   ├── reconcilliation.py           # For Executing price reconciliation
+│   └── fund_performance.py         # Business logic for performance calculations
 └── tests/                           # Unit tests for key modules
 ```
 
